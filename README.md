@@ -1,4 +1,4 @@
-Movie Revenue Prediciton
+# Movie Revenue Prediciton
 
 ## Description
 This project aims to build a model to predict movie revenue from various features known prior to a movie's release. Several types of models are used, with the best-performing ones being linear regression, SVM, and XGBoost.
